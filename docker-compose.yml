@@ -9,3 +9,13 @@ services:
       - MYSQL_PASSWORD=pass
       - MYSQL_DATABASE=app
       - MYSQL_RANDOM_ROOT_PASSWORD=yes
+  postgres-container:
+    image: postgres:12
+    ports:
+      - '5432:5432'
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+    environment:
+      POSTGRES_PASSWORD: pass
+      POSTGRES_USER: app
+      POSTGRES_DB: app

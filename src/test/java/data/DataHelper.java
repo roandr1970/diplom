@@ -25,11 +25,11 @@ public class DataHelper {
 
         //    Заполнение поля Номер карты
         public static String getApprovedCardNumber() {
-            return ("1111 2222 3333 4444");
+            return ("4444 4444 4444 4441");
         }
 
         public static String getDeclinedCardNumber() {
-            return ("5555 6666 7777 8888");
+            return ("4444 4444 4444 4442");
         }
 
         public static String getUnknownCardNumber() {

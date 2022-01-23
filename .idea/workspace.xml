@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c29b9df5-b0a2-40be-b345-095d8be4e7ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/bin/allure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/bin/allure.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/config/allure-cucumber.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/config/allure-junit.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/config/allure.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/allure-commandline-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/allure-generator-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/allure-model-2.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/allure-plugin-api-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/allure1-model-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/commons-beanutils-1.9.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/commons-collections4-4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/commons-io-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/commons-lang3-3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/commons-text-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/config/jetty-logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/config/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/flexmark-0.50.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/flexmark-util-0.50.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/freemarker-2.3.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/httpclient-4.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/httpcore-4.4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jackson-dataformat-xml-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jackson-dataformat-yaml-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jackson-module-jaxb-annotations-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jaxb-utils-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jcommander-1.78.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jetty-http-9.4.20.v20190813.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jetty-io-9.4.20.v20190813.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jetty-server-9.4.20.v20190813.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/jetty-util-9.4.20.v20190813.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/opencsv-4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/properties-2.0.RC5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/slf4j-api-1.7.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/slf4j-log4j12-1.7.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/snakeyaml-1.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/stax2-api-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/tika-core-1.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/lib/woodstox-core-5.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/behaviors-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/behaviors-plugin/behaviors-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/behaviors-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/custom-logo-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/custom-logo-plugin/custom-logo-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/custom-logo-plugin/static/custom-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/custom-logo-plugin/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/jira-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/lib/allure-jira-commons-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/lib/converter-jackson-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/lib/okhttp-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/lib/okio-1.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/jira-plugin/lib/retrofit-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/junit-xml-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/junit-xml-plugin/junit-xml-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/packages-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/packages-plugin/packages-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/packages-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/screen-diff-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/screen-diff-plugin/screen-diff-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/screen-diff-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/screen-diff-plugin/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/trx-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/trx-plugin/trx-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xctest-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xctest-plugin/lib/xmlwise-1.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xctest-plugin/xctest-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/lib/allure-jira-commons-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/lib/converter-jackson-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/lib/okhttp-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/lib/okio-1.15.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/lib/retrofit-2.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xray-plugin/xray-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xunit-xml-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.13.3/plugins/xunit-xml-plugin/xunit-xml-plugin-2.13.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-2.13.3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/data/DataHelper$CardInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/data/DataHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/page/CreditPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/page/MainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/page/PaymentPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/test/PaymentPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015609111.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015609111.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015617484.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015617484.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015625709.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015625709.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015662940.3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015662940.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015671523.4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015671523.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015681858.5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015681858.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015709382.6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640015709382.6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640016548878.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1640016548878.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/test.PaymentPageTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-test.PaymentPageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/data/DataHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/DataHelper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21ru2O6w1SBOaisrmqKUhvkVraM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reports" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey\IdeaProjects\diplom\reports" />
+      <recent name="C:\Users\Andrey\IdeaProjects\diplom\src\test\resources" />
+      <recent name="C:\Users\Andrey\IdeaProjects\diplom\artifacts" />
+      <recent name="C:\Users\Andrey\IdeaProjects\diplom" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.PaymentPageTest.shouldNotPayWithoutYear">
+    <configuration name="PaymentPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;test.PaymentPageTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PaymentPageTest.shouldNotPayWithLongName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;test.PaymentPageTest.shouldNotPayWithLongName&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PaymentPageTest.shouldNotPayWithoutData" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;test.PaymentPageTest.shouldNotPayWithoutData&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PaymentPageTest.shouldNotPayWithoutYear" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;test.PaymentPageTest.shouldNotPayWithoutYear&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PaymentPageTest.shouldNotPayWithoutYear" />
+        <item itemvalue="Gradle.PaymentPageTest.shouldNotPayWithLongName" />
+        <item itemvalue="Gradle.PaymentPageTest.shouldNotPayWithoutData" />
+        <item itemvalue="Gradle.PaymentPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c29b9df5-b0a2-40be-b345-095d8be4e7ba" name="Changes" comment="" />
+      <created>1638711328400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638711328400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
